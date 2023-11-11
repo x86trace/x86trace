@@ -1,2 +1,2 @@
 - twitter: https://twitter.com/0xtr4ce
-- Discord: trace.dll
+- Discord: .0xtrace
