@@ -1,2 +1,2 @@
-- twitter: https://twitter.com/0xtr4ce
-- Discord: .0xtrace
+- twitter: https://twitter.com/x86trace
+- Discord: x86trace
